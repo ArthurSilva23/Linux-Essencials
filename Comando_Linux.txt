@@ -1,0 +1,7 @@
+pwd #Comando utilizado para puxar qual o diretorio atual que você está usando
+su - #Comando utilizado para mudar de um usuario comum para o usuario root(administrador) da maquina Linux
+cd #Comando para eu mudar de diretorio
+
+
+~ #O til em Linux significa que você está em um diretorio HOME de algum usuario
+$ #O cifrão significa que esse usuario não e o root
