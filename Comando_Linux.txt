@@ -5,4 +5,3 @@ cd #Comando para eu mudar de diretorio
 
 ~ #O til em Linux significa que você está em um diretorio HOME de algum usuario
 $ #O cifrão significa que esse usuario não e o root
-teste
